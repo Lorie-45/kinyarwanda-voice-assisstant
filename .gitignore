@@ -1,0 +1,6 @@
+.vscode/
+espnet/
+KinyaTTS/
+venv/
+venv2/
+__pycache__/
